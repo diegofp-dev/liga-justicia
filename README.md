@@ -3,5 +3,4 @@
 This is a new change to the README.MD file
 
 
-## These are new changes from Git local!
-whatever  whatever whatever whatever
+## These are new changes from Git local and Github!
